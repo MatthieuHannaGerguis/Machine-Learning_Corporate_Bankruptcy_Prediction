@@ -95,7 +95,7 @@ This repository contains the following key resources:
 ---
 
 ## Methodology (High-Level)
-The project follows a complete machine learning pipeline:
+The project follows a standard end-to-end machine learning pipeline adapted to the constraints of highly imbalanced financial data.
 - Data exploration and cleaning (zero analysis, variance and correlation filtering)
 - Feature selection and dimensionality reduction (PCA)
 - Handling class imbalance (undersampling, random oversampling, SMOTE)
