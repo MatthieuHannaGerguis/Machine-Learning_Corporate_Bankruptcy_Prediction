@@ -118,6 +118,12 @@ These operations help stabilize model training and reduce noise.
 
 PCA is primarily used to mitigate multicollinearity and improve model robustness.
 
+
+4. Handling Class Imbalance
+
+Given the strong imbalance in the dataset, several strategies are evaluated:
+- Random undersampling of the majority class
+
 ---
 
 ## Results & Discussion
