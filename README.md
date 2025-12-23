@@ -96,6 +96,13 @@ This repository contains the following key resources:
 
 ## Methodology (High-Level)
 
+1. Data Exploration
+- Initial inspection of feature distributions
+- Identification of class imbalance in the target variable
+- Basic statistical analysis to detect anomalies and constant features
+
+This step aims to understand the structure of the data before any transformation or modeling.
+
 
 ---
 
