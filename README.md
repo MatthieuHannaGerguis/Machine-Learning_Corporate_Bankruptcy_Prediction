@@ -114,6 +114,9 @@ These operations help stabilize model training and reduce noise.
 3. Feature Selection and Dimensionality Reduction
 - Evaluation of Principal Component Analysis (PCA) as a dimensionality reduction technique
 - Analysis of the trade-off between explained variance and interpretability
+- Comparison of models trained with and without PCA
+
+PCA is primarily used to mitigate multicollinearity and improve model robustness.
 
 ---
 
