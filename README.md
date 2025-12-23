@@ -33,6 +33,8 @@ The dataset used in this project is the Company Bankruptcy Prediction dataset, b
 📊 Source (Kaggle)
 https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
 
+Dataset Overview:
+
 - 6,819 companies  
 - 95 financial features  
 - Binary target variable: `Bankrupt?`  
