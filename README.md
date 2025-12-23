@@ -129,6 +129,12 @@ Given the strong imbalance in the dataset, several strategies are evaluated:
 All resampling techniques are applied exclusively on the training data to prevent data leakage.
 
 
+5. Model Training and Comparison
+
+Multiple families of models are tested and compared:
+- Interpretable baseline models (e.g. linear classifiers)
+
+
 ---
 
 ## Results & Discussion
