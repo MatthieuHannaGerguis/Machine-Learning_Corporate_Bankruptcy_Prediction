@@ -133,6 +133,10 @@ All resampling techniques are applied exclusively on the training data to preven
 
 Multiple families of models are tested and compared:
 - Interpretable baseline models (e.g. linear classifiers)
+- Ensemble methods (e.g. tree-based models)
+- Deep Neural Networks (DNNs)
+
+This comparison allows assessing the trade-off between performance, robustness, and interpretability.
 
 
 ---
