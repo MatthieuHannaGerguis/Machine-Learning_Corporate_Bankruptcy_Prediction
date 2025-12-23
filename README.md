@@ -2,6 +2,16 @@
 
 Predicting corporate bankruptcy from financial ratios with imbalanced-learning methods.
 
+	•	Academic Context
+	•	Authors
+	•	Project Overview
+	•	Dataset
+	•	Repository Structure
+	•	Methodology
+	•	Results
+	•	Reproducibility
+	•	License / Notes
+
 ## Academic Context
 **Programme:** A4 IF3  
 **Course:** Machine Learning  
