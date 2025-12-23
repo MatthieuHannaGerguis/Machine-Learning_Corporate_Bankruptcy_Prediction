@@ -139,6 +139,12 @@ Multiple families of models are tested and compared:
 This comparison allows assessing the trade-off between performance, robustness, and interpretability.
 
 
+6. Model Evaluation
+
+Model performance is evaluated using metrics adapted to imbalanced classification:
+- Recall on the minority (bankrupt) class
+
+
 ---
 
 ## Results & Discussion
