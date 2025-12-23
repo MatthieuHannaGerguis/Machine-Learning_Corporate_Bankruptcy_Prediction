@@ -103,6 +103,13 @@ This repository contains the following key resources:
 
 This step aims to understand the structure of the data before any transformation or modeling.
 
+2. Data Cleaning and Preprocessing
+- Removal of zero-variance and near-zero-variance features
+- Filtering of highly correlated variables to reduce redundancy
+- Verification of numerical consistency across all features
+
+These operations help stabilize model training and reduce noise.
+
 
 ---
 
