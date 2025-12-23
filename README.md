@@ -146,6 +146,9 @@ Model performance is evaluated using metrics adapted to imbalanced classificatio
 - Precision and F1-score
 - ROC-AUC and complementary threshold-based analysis
 
+The evaluation strategy prioritizes the detection of bankrupt firms, which is the primary objective of the project.
+
+
 
 
 ---
