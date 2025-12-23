@@ -8,7 +8,7 @@
 
 ## Authors
 - Matthieu HANNA GERGUIS  
-- Renaud de l’Epine  
+- Renaud DE L'EPINE  
 - Ilian SEGOIN  
 
 ---
