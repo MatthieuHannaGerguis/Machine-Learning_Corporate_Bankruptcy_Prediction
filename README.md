@@ -111,6 +111,10 @@ This step aims to understand the structure of the data before any transformation
 These operations help stabilize model training and reduce noise.
 
 
+3. Feature Selection and Dimensionality Reduction
+- Evaluation of Principal Component Analysis (PCA) as a dimensionality reduction technique
+- Analysis of the trade-off between explained variance and interpretability
+
 ---
 
 ## Results & Discussion
