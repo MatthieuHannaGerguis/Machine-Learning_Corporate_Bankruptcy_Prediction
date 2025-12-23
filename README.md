@@ -50,6 +50,10 @@ Class Imbalance Considerations
 - Models trained without imbalance handling tend to favor the majority class
 - Specialized techniques are required to improve detection of bankrupt firms
 
+Preprocessing Notes
+- Low-variance features are removed
+- Highly correlated features are filtered
+
 
 ---
 
