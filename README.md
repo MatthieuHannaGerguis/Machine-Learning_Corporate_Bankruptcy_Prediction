@@ -40,6 +40,10 @@ Dataset Overview:
 - Binary target variable: `Bankrupt?`  
 - Strong class imbalance (~3% bankrupt firms)
 
+Target Variable
+	•	Bankrupt? = 1 → Company went bankrupt
+	•	Bankrupt? = 0 → Company did not go bankrupt
+
 ---
 
 ## Repository Structure
