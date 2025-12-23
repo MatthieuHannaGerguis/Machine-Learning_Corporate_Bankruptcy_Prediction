@@ -123,6 +123,8 @@ PCA is primarily used to mitigate multicollinearity and improve model robustness
 
 Given the strong imbalance in the dataset, several strategies are evaluated:
 - Random undersampling of the majority class
+- Random oversampling of the minority class
+- SMOTE (Synthetic Minority Over-sampling Technique)
 
 ---
 
