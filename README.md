@@ -48,6 +48,8 @@ The dataset exhibits a severe class imbalance, which makes standard accuracy met
 Class Imbalance Considerations
 - Bankruptcy events are rare (~3%)
 - Models trained without imbalance handling tend to favor the majority class
+- Specialized techniques are required to improve detection of bankrupt firms
+
 
 ---
 
