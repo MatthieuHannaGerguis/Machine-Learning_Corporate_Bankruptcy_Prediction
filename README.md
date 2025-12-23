@@ -143,6 +143,9 @@ This comparison allows assessing the trade-off between performance, robustness, 
 
 Model performance is evaluated using metrics adapted to imbalanced classification:
 - Recall on the minority (bankrupt) class
+- Precision and F1-score
+- ROC-AUC and complementary threshold-based analysis
+
 
 
 ---
