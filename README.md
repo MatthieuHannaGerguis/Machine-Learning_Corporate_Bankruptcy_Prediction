@@ -149,6 +149,10 @@ Model performance is evaluated using metrics adapted to imbalanced classificatio
 The evaluation strategy prioritizes the detection of bankrupt firms, which is the primary objective of the project.
 
 
+7. Experimental Scope
+
+The methodology is intentionally limited to the techniques required by the course framework.
+More advanced approaches (e.g. cost-sensitive learning, temporal modeling, or alternative architectures) are acknowledged but not explored within this project.
 
 
 ---
