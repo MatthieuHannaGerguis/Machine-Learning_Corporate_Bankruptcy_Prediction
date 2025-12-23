@@ -21,6 +21,9 @@ Predicting corporate bankruptcy from financial ratios with imbalanced-learning m
 This project addresses the problem of **corporate bankruptcy prediction** using machine learning techniques on **highly imbalanced financial data**.  
 The objective is to build a robust and interpretable prediction pipeline while prioritizing the detection of bankrupt firms, which is a critical challenge in financial risk management.
 **Keywords:** imbalanced classification, recall, SMOTE, ensembles, PCA, interpretability
+	•	maximize recall on bankrupt firms
+	•	keep pipeline interpretable
+	•	ensure reproducible evaluation
 
 ---
 
