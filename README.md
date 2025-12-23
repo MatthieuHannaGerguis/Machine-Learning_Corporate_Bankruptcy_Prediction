@@ -45,6 +45,9 @@ Target Variable
 	•	Bankrupt? = 0 → Company did not go bankrupt
 The dataset exhibits a severe class imbalance, which makes standard accuracy metrics unreliable and motivates the use of recall-focused evaluation.
 
+Class Imbalance Considerations
+	•	Bankruptcy events are rare (~3%)
+	•	Models trained without imbalance handling tend to favor the majority class
 
 ---
 
