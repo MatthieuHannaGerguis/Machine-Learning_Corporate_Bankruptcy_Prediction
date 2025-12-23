@@ -53,6 +53,8 @@ Class Imbalance Considerations
 Preprocessing Notes
 - Low-variance features are removed
 - Highly correlated features are filtered
+- Scaling is applied where required (PCA, distance-based models, neural networks)
+- Resampling methods are applied only on training data to avoid data leakage
 
 
 ---
