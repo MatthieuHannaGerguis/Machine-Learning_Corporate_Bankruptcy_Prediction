@@ -43,6 +43,8 @@ Dataset Overview:
 Target Variable
 	•	Bankrupt? = 1 → Company went bankrupt
 	•	Bankrupt? = 0 → Company did not go bankrupt
+The dataset exhibits a severe class imbalance, which makes standard accuracy metrics unreliable and motivates the use of recall-focused evaluation.
+
 
 ---
 
