@@ -28,8 +28,10 @@ The objective is to build a robust and interpretable prediction pipeline while p
 ---
 
 ## Dataset
-The data used in this project come from the **Company Bankruptcy Prediction** dataset, derived from financial statements collected by the Taiwan Economic Journal (TEJ).
+The dataset used in this project is the Company Bankruptcy Prediction dataset, built from financial statements collected by the Taiwan Economic Journal (TEJ).
 `Bankrupt` = 1 indicates bankruptcy occurrence.
+Imbalance makes accuracy misleading; recall/PR metrics are preferred.
+
 
 📊 **Source (Kaggle):**  
 https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
