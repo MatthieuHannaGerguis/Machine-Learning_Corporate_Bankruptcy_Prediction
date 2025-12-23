@@ -56,6 +56,12 @@ Preprocessing Notes
 - Scaling is applied where required (PCA, distance-based models, neural networks)
 - Resampling methods are applied only on training data to avoid data leakage
 
+Dataset Files
+- data.csv
+Original dataset as provided on Kaggle
+- data_clean.csv
+Cleaned version after preprocessing and feature filtering, used for modeling
+
 
 ---
 
