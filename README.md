@@ -1,5 +1,7 @@
 # Machine Learning Project – Corporate Bankruptcy Prediction
 
+Predicting corporate bankruptcy from financial ratios with imbalanced-learning methods.
+
 ## Academic Context
 **Programme:** A4 IF3  
 **Course:** Machine Learning  
