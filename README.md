@@ -126,6 +126,9 @@ Given the strong imbalance in the dataset, several strategies are evaluated:
 - Random oversampling of the minority class
 - SMOTE (Synthetic Minority Over-sampling Technique)
 
+All resampling techniques are applied exclusively on the training data to prevent data leakage.
+
+
 ---
 
 ## Results & Discussion
