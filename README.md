@@ -2,19 +2,6 @@
 
 Predicting corporate bankruptcy from financial ratios with imbalanced learning methods.
 
-
-## Academic Context
-**Program:** A4 IF3
-**Course:** Machine Learning
-**School:** ESILV
-**Year:** 2025–2026
-
-
-## Authors
-- Matthieu HANNA GERGUIS  
-- Renaud DE L'EPINE  
-- Ilian SEGOIN  
-
 ---
 
 ## Project Overview
